@@ -77,8 +77,6 @@
                 </div>
             </form>
         </div>
-
-        <!-- Home Button Below the Form -->
         <a href="/" class="btn btn-outline-primary mt-3">Home</a>
     </div>
 </body>

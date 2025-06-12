@@ -85,6 +85,7 @@ class AdminController extends Controller
         }
     }
 
+    //admin add note functionality
     public function addNote(Request $request, $id, $type)
     {
         try {
